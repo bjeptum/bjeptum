@@ -5,11 +5,11 @@
 - 👩‍💻 Code by day, empowering moms in tech by night. Let’s create, innovate, and break barriers together!  
 
 ## 🌍 What I’m up to:  
-🔭 **Currently working on:** TechMama—a platform that provides Career Development & Coaching for Moms.
-🌱 **Currently learning:** Advanced backend development & cloud engineering  
-👯 **Looking to collaborate on:** FinTech, EdTech & impactful tech solutions  
-🤔 **Looking for help with:** Scaling TechMama & integrating AI-powered coaching  
-💬 **Ask me about:** Full-stack development, tech career transitions & balancing career + family
+- 🔭 **Currently working on:** TechMama—a platform that provides Career Development & Coaching for Moms.
+- 🌱 **Currently learning:** Advanced backend development & cloud engineering
+- 👯 **Looking to collaborate on:** FinTech, EdTech & impactful tech solutions
+- 🤔 **Looking for help with:** Scaling TechMama & integrating AI-powered coaching
+- 💬 **Ask me about:** Full-stack development, tech career transitions & balancing career + family
 
 
 ## 🎯 More About Me:  
