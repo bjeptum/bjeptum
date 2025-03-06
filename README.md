@@ -20,6 +20,6 @@
 🚀 **Actively seeking new opportunities!** Looking for a **Software Engineer role** where I can build impactful solutions and grow my skills.  
 
 ## 📫 Connect with Me
-.[Email](brendajeptum@gmail.com)
+[Email](brendajeptum@gmail.com)
 
-.[LinkedIn](https://www.linkedin.com/in/brenda-jeptum-8bab79120/)
+[LinkedIn](https://www.linkedin.com/in/brenda-jeptum-8bab79120/)
