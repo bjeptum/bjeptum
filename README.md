@@ -1,6 +1,6 @@
 ## Hi there 👋 this is Jeptum Brenda
 
-- 🚀 Software Engineer | TechMama Founder | Women in Tech Advocate
+- 🚀 Software Engineer | TechMama Founder | Women in Tech Advocate | Tech for Good Advocate
 - 💡 Building sleek, user-friendly apps that solve real-world problems—especially in **finance** and **career development**.
 - 👩‍💻 Code by day, empowering moms in tech by night. Let’s create, innovate, and break barriers together!  
 
@@ -19,7 +19,7 @@
 
 🚀 **Actively seeking new opportunities!** Looking for a **Software Engineer role** where I can build impactful solutions and grow my skills.  
 
-## Connect with Me
-📫 [brendajeptum@gmail.com]
-.[https://www.linkedin.com/in/brenda-jeptum-8bab79120/]
+## 📫 Connect with Me
+.[Email](brendajeptum@gmail.com)
 
+.[LinkedIn](https://www.linkedin.com/in/brenda-jeptum-8bab79120/)
