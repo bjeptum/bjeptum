@@ -1,14 +1,14 @@
 ## Hi there 👋 this is Jeptum Brenda
 
-- 🚀 Software Engineer | TechMama Founder | Women in Tech Advocate | Tech for Good Advocate
+- 🚀 Software Engineer | TechMommaHive Founder | Women in Tech Advocate | Tech for Good Advocate
 - 💡 Building sleek, user-friendly apps that solve real-world problems—especially in **finance** and **career development**.
 - 👩‍💻 Code by day, empowering moms in tech by night. Let’s create, innovate, and break barriers together!  
 
 ## 🌍 What I’m up to:  
-- 🔭 **Currently working on:** TechMama—a platform that provides Career Development & Coaching for Moms.
+- 🔭 **Currently working on:** TechMommaHive—a platform that provides Career Development & Coaching for Moms.
 - 🌱 **Currently learning:** Advanced backend development & cloud engineering
 - 👯 **Looking to collaborate on:** FinTech, EdTech & impactful tech solutions
-- 🤔 **Looking for help with:** Scaling TechMama & integrating AI-powered coaching
+- 🤔 **Looking for help with:** Scaling TechMommaHive & integrating AI-powered coaching
 - 💬 **Ask me about:** Full-stack development, tech career transitions & balancing career + family
 
 
