@@ -17,8 +17,11 @@ Python (Flask, Django) • JavaScript (Node.js, React, Express) • Docker • K
 
 ## More About Me
 📸 **Lover of clean code and efficient systems** | 🏆 **Problem-solver at heart**
+
 🎮 **Techie by day, storyteller & lifelong learner by night**
+
 ⚡ **Fun fact:** Switched from insurance underwriting to software engineering—best decision ever!
+
 🚀 **Actively seeking Software engineer roles (Backend or Cloud-focused!** where I can build impactful solutions and grow my skills
 
 
