@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jeptum Brenda
 
-- Software Engineer | TechMommaHive Founder | Women in Tech Advocate | Tech for Good Advocate
+- Cloud Engineer
 - Building sleek, user-friendly apps that solve real-world problems—especially in **finance** and **career development**.
 - Code by day, empowering moms in tech by night. Let’s create, innovate, and break barriers together!
 
