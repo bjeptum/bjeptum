@@ -11,11 +11,13 @@ I enjoy building scalable cloud infrastructure and automating deployments.
 
 - 🔭 Currently focusing on **Cloud Engineering and DevOps**
 - Passionate about **automation and cloud systems**
-- 🎯 Goal: To build and maintain scalable, secure cloud infrastructure while continuously growing as a **Cloud and DevOps Engineer**
+- Goal: To build and maintain scalable, secure cloud infrastructure while continuously growing as a **Cloud and DevOps Engineer**
+- ⚡ **Fun fact:** Switched from insurance underwriting to software engineering—best decision ever!
+- - Looking to collaborate on: FinTech, EdTech, HR Tech, AI-powered tools, and impactful backend/cloud projects.
 
 ---
 
-## 🚀 Cloud & DevOps Skills
+## Cloud & DevOps Skills
 
 **Cloud**
 
@@ -37,7 +39,7 @@ Bash
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,python,bash" />
 
