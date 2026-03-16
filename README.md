@@ -44,18 +44,22 @@ Key Concepts:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-<p>
-  <!-- Cloud Platforms -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" title="AWS" width="40" height="40"/>
-  
-  <!-- DevOps Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions" title="Docker" width="40" height="40"/>
-  
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,bash" title="Python" width="40" height="40"/>
-</p>
+### ☁️ Cloud Platforms
+| AWS | Azure | GCP |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=aws" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=azure" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=gcp" width="60" height="60"/> |
+
+### ⚙️ DevOps Tools
+| Docker | Kubernetes | Terraform | GitHub Actions |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=docker" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=terraform" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60"/> |
+
+### 🖥️ Languages
+| Python | Bash |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=bash" width="60" height="60"/> |
 
 ---
 
@@ -72,5 +76,6 @@ Key Concepts:
 LinkedIn  
 https://www.linkedin.com/in/jeptumbrenda/
 
-GitHub  
-https://github.com/bjeptum
+Twitter
+
+[@BJeptum](https://twitter.com/BJeptum)
