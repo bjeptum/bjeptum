@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brenda Jeptum</h1>
+<h1 align="center">Hi 👋, I'm Jeptum Brenda</h1>
 <h3 align="center">Cloud & DevOps Engineer</h3>
 
 <p align="center">
