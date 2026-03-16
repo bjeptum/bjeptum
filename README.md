@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeptum Brenda</h1>
-<h3 align="center">Cloud & DevOps Engineer</h3>
+<h3 align="center">Cloud & DevOps Engineer | Backend Developer </h3>
 
 <p align="center">
 I create backend services and cloud setups, with emphasis on clear code and automated deployment pipelines.
