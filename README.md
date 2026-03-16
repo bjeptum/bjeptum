@@ -13,7 +13,7 @@ I enjoy building scalable cloud infrastructure and automating deployments.
 - Passionate about **automation and cloud systems**
 - Goal: To build and maintain scalable, secure cloud infrastructure while continuously growing as a **Cloud and DevOps Engineer**
 - ⚡ **Fun fact:** Switched from insurance underwriting to software engineering—best decision ever!
-- - Looking to collaborate on: FinTech, EdTech, HR Tech, AI-powered tools, and impactful backend/cloud projects.
+- Looking to collaborate on: FinTech, EdTech, HR Tech, AI-powered tools, and impactful backend/cloud projects.
 
 ---
 
