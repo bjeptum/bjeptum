@@ -44,6 +44,21 @@ Key Concepts:
 
 ---
 
+## 🛠 Tech Stack
+
+<p>
+  <!-- Cloud Platforms -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" title="AWS" width="40" height="40"/>
+  
+  <!-- DevOps Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions" title="Docker" width="40" height="40"/>
+  
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,bash" title="Python" width="40" height="40"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bjeptum&show_icons=true&theme=tokyonight)
