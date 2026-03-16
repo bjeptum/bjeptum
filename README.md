@@ -7,7 +7,7 @@ I enjoy building scalable cloud infrastructure and automating deployments.
 
 ---
 
-## ☁️ About Me
+## About Me
 
 - 🔭 Currently focusing on **Cloud Engineering and DevOps**
 - Passionate about **automation and cloud systems**
