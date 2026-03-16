@@ -10,9 +10,8 @@ I enjoy building scalable cloud infrastructure and automating deployments.
 ## ☁️ About Me
 
 - 🔭 Currently focusing on **Cloud Engineering and DevOps**
-- 🌱 Learning **Kubernetes and Infrastructure as Code**
-- 💡 Passionate about **automation and cloud systems**
-- 🎯 Goal: Become a strong **Cloud/DevOps Engineer**
+- Passionate about **automation and cloud systems**
+- 🎯 Goal: To build and maintain scalable, secure cloud infrastructure while continuously growing as a **Cloud and DevOps Engineer**
 
 ---
 
