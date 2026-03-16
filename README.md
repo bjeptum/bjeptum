@@ -16,32 +16,39 @@ I enjoy building scalable cloud infrastructure and automating deployments.
 - Looking to collaborate on: FinTech, EdTech, HR Tech, AI-powered tools, and impactful backend/cloud projects.
 
 ---
+## Featured Cloud & DevOps Projects
 
-## Cloud & DevOps Skills
+### ☁️ End-to-End Cloud & DevOps Capstone
+Full-stack project demonstrating modern DevOps practices including containerization, CI/CD automation, and cloud-ready deployment workflows.
 
-**Cloud**
+Key Concepts:
+- Docker containerization
+- Kubernetes deployment
+- CI/CD pipeline automation
+- Infrastructure best practices
 
-AWS  
-Azure  
-Google Cloud  
+🔗 https://github.com/bjeptum/barakat_capstone_project_brenda1484
 
-**DevOps**
 
-Docker  
-Kubernetes  
-Terraform  
-GitHub Actions  
+---
 
-**Languages**
+###  Task Management Application (DevOps-Ready)
+A full-stack task management application showcasing application development with deployment-ready architecture.
 
-Python  
-Bash  
+Key Concepts:
+- Containerized application architecture
+- Git-based development workflow
+- Scalable application structure
+
+🔗 https://github.com/bjeptum/much-to-do_jeptum_brenda
 
 ---
 
 ## Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,python,bash" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,python,bash" width="40" height="40"/>
+</p>
 
 ---
 
