@@ -44,14 +44,6 @@ Key Concepts:
 
 ---
 
-## Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,python,bash" width="40" height="40"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bjeptum&show_icons=true&theme=tokyonight)
