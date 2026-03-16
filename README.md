@@ -2,18 +2,18 @@
 <h3 align="center">Cloud & DevOps Engineer</h3>
 
 <p align="center">
-I enjoy building scalable cloud infrastructure and automating deployments.
+I create backend services and cloud setups, with emphasis on clear code and automated deployment pipelines.
 </p>
 
 ---
 
 ## About Me
 
-- 🔭 Currently focusing on **Cloud Engineering and DevOps**
-- Passionate about **automation and cloud systems**
-- Goal: To build and maintain scalable, secure cloud infrastructure while continuously growing as a **Cloud and DevOps Engineer**
-- ⚡ **Fun fact:** Switched from insurance underwriting to software engineering—best decision ever!
-- Looking to collaborate on: FinTech, EdTech, HR Tech, AI-powered tools, and impactful backend/cloud projects.
+- 🔭 Currently focusing on **Backend Development**, **Cloud Engineering**, and **DevOps**
+- Passionate about **building APIs & backend services**, **automation**, and **cloud-native systems**
+- Goal: To design, develop, and maintain secure, performant, and scalable applications and infrastructure while growing as a **full-cycle Cloud & Backend Engineer**
+- ⚡ **Fun fact:** Switched from insurance underwriting to software engineering —best career decision ever!
+- Looking to collaborate on: FinTech, EdTech, HR Tech, AI-powered tools, backend APIs/services, and impactful cloud/DevOps projects.
 
 ---
 ## Featured Cloud & DevOps Projects
@@ -56,10 +56,11 @@ Key Concepts:
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=docker" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=terraform" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60"/> |
 
-### 🖥️ Languages
-| Python | Bash |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=bash" width="60" height="60"/> |
+### 🖥️ Languages and Frameworks
+
+| Python | Node.js | Bash | Django | Flask |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=bash" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=django" width="60" height="60"/> | <img src="https://skillicons.dev/icons?i=flask" width="60" height="60"/> |
 
 ---
 
