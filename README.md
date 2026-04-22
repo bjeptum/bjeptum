@@ -9,10 +9,10 @@ I create backend services and cloud setups, with emphasis on clear code and auto
 
 ## About Me
 
-- 🔭 Currently focusing on **Backend Development**, **Cloud Engineering**, and **DevOps**
+- Currently focusing on **Backend Development**, **Cloud Engineering**, and **DevOps**
 - Passionate about **building APIs & backend services**, **automation**, and **cloud-native systems**
 - Goal: To design, develop, and maintain secure, performant, and scalable applications and infrastructure while growing as a **full-cycle Cloud & Backend Engineer**
-- ⚡ **Fun fact:** Switched from insurance underwriting to software engineering —best career decision ever!
+- **Fun fact:** Switched from insurance underwriting to software engineering —best career decision ever!
 - Looking to collaborate on: FinTech, EdTech, HR Tech, AI-powered tools, backend APIs/services, and impactful cloud/DevOps projects.
 
 ---
